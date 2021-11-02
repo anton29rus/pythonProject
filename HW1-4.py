@@ -1,5 +1,0 @@
-number = abs(int(input('input a number - ')))
-result = list(str(number))
-print(result)
-biggest_dig = max(result)
-print('biggest digit is - ', biggest_dig)
